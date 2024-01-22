@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Matrimonial</string>
+    <string name="facebook_app_id">577515017107858</string>
+    <string name="facebook_client_token">404ac2234f6b85b16f766f6eb5d4ef82</string>
+    <string name="facebook_login_protocol_scheme">fb577515017107858</string>
+</resources>
